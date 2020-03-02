@@ -1,5 +1,7 @@
 #Java build output files
+# ,,,from Eclipse
 target/
+# ...from IDEA
 out/
 
 # Code heakth/design health reports generated from an Eclipse plugin
