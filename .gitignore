@@ -1,5 +1,6 @@
 #Java build output files
 target/
+out/
 
 # Code heakth/design health reports generated from an Eclipse plugin
 Metrics/
