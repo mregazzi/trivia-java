@@ -4,7 +4,7 @@ target/
 # ...from IDEA
 out/
 
-# Code heakth/design health reports generated from an Eclipse plugin
+# Code health/design health reports generated from an Eclipse plugin
 Metrics/
 
 ### IntelliJ IDEA ###
